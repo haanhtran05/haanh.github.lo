@@ -1,1 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"
+        <title>Week 4 Lab Excercise</title>
+        <style>
+            body {background-repeat: no-repeat; background-size: 100% auto; font-size: 25px;color: rgb(159, 119, 159);}
 
+        </style>
+</head>
+<body background="https://demoda.vn/wp-content/uploads/2022/01/hinh-nen-shin-dep-nhat.jpg" text="black">
+    <h1 style="color:rgb(226, 142, 194);text-align: center;font-size: 100%;">Crayon-Shinchan</h1>
+    <hr width="70%" color="pink" size="3px">
+    <div>
+        <h2>Crayon-Shinchan</h2>
+        <p>The movie is about a boy with a super naughty nickname named Shin-chan. He lives with his parents, younger sister and dog Snow White. 5-year-old Shin-chan has a chubby appearance, likes to eat chocolate cookies, and dreams of being a superhero.
+
+            Shin-chan is a talented boy but he is talented at lyrics. He is mischievous and often teases his friends and neighbors. At school, he often called the principal a gangster and teased his friends. His parents were very worried because of his disruptive behavior in school. Even though he is mischievous, he is a kind child and cares about everyone around him. When he saw that his mother was tired, he helped her dry clothes, clean the house and do other tasks that she asked to do.If you've watched the movie, you can't help but mention Nohara Himawari, with a docile and innocent appearance but actually a super badass. Wherever Shin and Himawari are, it's bound to be a mess. There is also the Kasukabe squad consisting of 5 friends of Shin-chan including Shinosuke, Kazama, Nene, Masao, and Bo. This is a brave, super badass squad of Kasukabe city.</p>
+    </div>
+    <hr width="70%" color="pink" size="3px">
+    <h3 style="font-style: oblique;">Link to watch Crayon-Shinchan</h3>
+    <a href="https://www.youtube.com/watch?v=cJ81cdL4S7I">Shinosuke</a>
+</body>
+</html>
