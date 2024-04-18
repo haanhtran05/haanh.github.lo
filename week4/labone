@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
         <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0"
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Week 4 Lab Excercise</title>
         <style>
             body {background-repeat: no-repeat; background-size: 100% auto; font-size: 25px;color: rgb(159, 119, 159);}
